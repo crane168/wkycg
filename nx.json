@@ -1,0 +1,21 @@
+{
+  "npmScope": "wkycg",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "web": {
+      "tags": []
+    },
+    "web-e2e": {
+      "tags": []
+    },
+    "ngx3-common": {
+      "tags": []
+    }
+  }
+}
