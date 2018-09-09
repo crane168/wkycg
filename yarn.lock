@@ -267,7 +267,7 @@
   version "6.2.1"
   resolved "http://registry.npm.taobao.org/@nrwl/nx/download/@nrwl/nx-6.2.1.tgz#b75a5c35bab53675a89320e1d8d16f40b70e66d1"
 
-"@nrwl/schematics@^6.2.1":
+"@nrwl/schematics@6.2.1":
   version "6.2.1"
   resolved "http://registry.npm.taobao.org/@nrwl/schematics/download/@nrwl/schematics-6.2.1.tgz#11473af8f5f3c078b65ebd47fb8bfbde93912163"
   dependencies:
@@ -4477,9 +4477,9 @@ ngrx-store-freeze@0.2.4:
   dependencies:
     deep-freeze-strict "^1.1.1"
 
-ngx-chips@^1.9.4:
-  version "1.9.5"
-  resolved "http://registry.npm.taobao.org/ngx-chips/download/ngx-chips-1.9.5.tgz#92fabcf843b61db5501dfefcd33b8b6b9bd0d75a"
+ngx-chips@1.9.4:
+  version "1.9.4"
+  resolved "http://registry.npm.taobao.org/ngx-chips/download/ngx-chips-1.9.4.tgz#161f9ae38ec085c25545967ad62ecb9695e69bfe"
   dependencies:
     ng2-material-dropdown "0.10.1"
     tslib "^1.9.0"
